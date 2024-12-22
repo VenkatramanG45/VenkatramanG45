@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Tech Hub**
 
-- 🤝 I’m looking for help with **Techies and get exposure through Intern**
+- 🤝 I’m looking for help with **Techies and get exposure through Intern and Job oppurtunities**
 
 - 💬 Ask me about **Python , Django ,SQL and DSA**
 
