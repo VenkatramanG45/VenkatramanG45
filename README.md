@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Techies and get exposure through Intern and Job oppurtunities**
 
-- 💬 Ask me about **Python , Django ,SQL and DSA**
+- 💬 Ask me about **Python, DSA , Django ,SQL, Frebase, React, AI tools, Internship, Google Cloud, LLMs **
 
 - 📫 How to reach me **venkatramang2003@gmail.com**
 
