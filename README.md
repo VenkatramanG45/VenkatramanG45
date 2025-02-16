@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Techies, Had a Plan to Work on Open Source Projects**
 
-- 💬 Ask me about **Python, DSA , Django ,SQL, Frebase, React, AI tools, Internship, Google Cloud, LLMs**
+- 💬 Ask me about **Python, DSA , Django ,SQL, Firebase, React, AI tools, Internship, Google Cloud, LLMs**
 
 - 📫 How to reach me **venkatramang2003@gmail.com**
 
